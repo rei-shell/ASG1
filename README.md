@@ -73,6 +73,10 @@ Design Process:
 
 References:
 - https://kprofiles.com/exo-discography/
-- https://en.wikipedia.org/wiki/Exo#:~:text=Exo%2DK%20and%20Exo%2DM%20debuted%20with%20the%20single%20%22,EP%20Mama%20on%20April%209.
-
-
+- https://en.wikipedia.org/wiki/Exo#:~:text=Exo%2DK%20and%20Exo%2DM%20debuted%20with%20the%20single%20%22,EP%20Mama%20on%20April%209
+- https://www.freepnglogos.com/images/logo-ig-png-32473.html
+- https://www.deviantart.com/chezeewolf/art/exo-logo-png-396058534
+- https://wallpaperaccess.com/exo
+- https://www.freepnglogos.com/images/youtube-logo-png-2069.html
+- https://www.freepnglogos.com/images/logo-facebookpng-32202.html
+- https://commons.wikimedia.org/wiki/File:VLive_LOGO.png#/media/File:VLive_LOGO.png
