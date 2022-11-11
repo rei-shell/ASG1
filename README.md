@@ -62,14 +62,16 @@ Some Additional Features:
 - Advistertise their old songs, for example music videos
 
 Design Process:
-- Page 1 AKA About:
-  - Informations about the group history, world tour and upcoming new ablum or solo album
-  - Informations about the solo members, sub-group
+- Page 1 AKA Home:
   - Advistertise their old songs, for example music videos
-- Page 2 AKA Shop:
+  - Upcoming new ablum or solo album
+- Page 2 AKA About:
+  - Informations about the group history, world tour 
+  - Informations about the solo members, sub-group
+- Page 3 AKA Shop:
   - Sells merch, ablums to the fans
-- Page 3 AKA Contact:
-  - Able to find them in Instagram, Youtube, VLive, FaceBook and more
+- Page 4 AKA Contact:
+  - Able to find them in Instagram, Youtube, VLive, FaceBook
 
 References:
 - https://kprofiles.com/exo-discography/
