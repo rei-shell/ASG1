@@ -70,8 +70,7 @@ Design Process:
   - Informations about the solo members, sub-group
 - Page 3 AKA Shop:
   - Sells merch, ablums to the fans
-- Page 4 AKA Contact:
-  - Able to find them in Instagram, Youtube, VLive, FaceBook
+
 
 References:
 - https://kprofiles.com/exo-discography/
