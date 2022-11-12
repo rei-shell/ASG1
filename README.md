@@ -81,3 +81,5 @@ References:
 - https://www.freepnglogos.com/images/youtube-logo-png-2069.html
 - https://www.freepnglogos.com/images/logo-facebookpng-32202.html
 - https://commons.wikimedia.org/wiki/File:VLive_LOGO.png#/media/File:VLive_LOGO.png
+- https://www.flaticon.com/free-icon/youtube-symbol_48968
+- https://www.flaticon.com/free-icon/v-live_2111823
