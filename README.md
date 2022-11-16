@@ -38,11 +38,11 @@ Features:
     - Exo Planent 5 - Exploration
   - upcoming news:
     - EXO's Chen solo album coming out in November 14, 2022
-- Able to find them in Instagram, Youtube, VLive, FaceBook and more
-  - Instagram: https://www.instagram.com/weareone.exo/?hl=en
-  - Youtube: https://www.youtube.com/c/weareoneEXO/about
-  - VLive: https://www.vlive.tv/channel/F94BD
-  - FaceBook: https://www.facebook.com/weareoneEXO/
+- Able to find them in Instagram, Youtube, VLive, FaceBook and more [^1][^2][^3][^4]
+  [^1]: Instagram: https://www.instagram.com/weareone.exo/?hl=en
+  [^2]: Youtube: https://www.youtube.com/c/weareoneEXO/about
+  [^3]: VLive: https://www.vlive.tv/channel/F94BD
+  [^4]: FaceBook: https://www.facebook.com/weareoneEXO/
   
 Some Additional Features:
 - Informations about the solo members, sub-group
@@ -70,6 +70,7 @@ Design Process:
   - Informations about the solo members, sub-group
 - Page 3 AKA Shop:
   - Sells merch, ablums to the fans
+
 
 
 References:
