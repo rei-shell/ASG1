@@ -14,7 +14,7 @@ html, body {
   }
   p{
     text-align: center;
-    color: black;
+    color: white;
     font-size: 15px;
   }
   img {
@@ -28,6 +28,6 @@ html, body {
   }
   h3{
     text-align:center;
-    color: black;
+    color: white;
     font-size: 34px;
   }
