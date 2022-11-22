@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <title>Flex Skeleton</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="page.css" rel="stylesheet" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    /* media query starts here    */
+    /* Small devices (landscape phones, 576px and up) */
+    @media screen and (max-width: 600px) {
+
+      img {
+        width: 500px;
+        height: 450px;
+      }
+
+      .flex-container {
+        width: 500px;
+        height: 200px;
+        display: flex;
+        flex-flow: column;
+        flex-direction: row;
+      }
+
+      .flex-container>li {
+        margin: 10px;
+        padding: 10px;
+        font-size: 5px;
+      }
+
+      .navbar a:not(:first-child) {
+        display: none;
+      }
+
+      .navbar a.icon {
+        float: right;
+        display: block;
+      }
+
+      .navbar a {
+        float: none;
+        display: block;
+        text-align: left;
+      }
+
+      .navbar-right {
+        float: none;
+      }
+    }
+
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+
+      img {
+        width: 1250px;
+        height: 600px;
+      }
+
+      .flex-container {
+        width: 1250px;
+        height: 250px;
+        display: flex;
+        flex-flow: column;
+        flex-direction: row;
+      }
+
+      .flex-container>li {
+        margin: 10px;
+        padding: 5px;
+        font-size: 10px;
+      }
+
+      .navbar.responsive .icon {
+        position: relative;
+      }
+
+      .navbar.responsive .icon {
+        float: none;
+        display: block;
+        text-align: left;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="navbar" id="mybar">
+    <a href="./home.html" class="logo"><img class="logo" src="exo_logo_png_by_chezeewolf_d6jswpy.png"><span
+        class="tab1"></span></a>
+    <div class="navbar-right">
+      <a class="active" href="./home.html">Home</a>
+      <a class="active" href="./about.html">About</a>
+      <a class="active" href="./shop.html">Shop</a>
+    </div>
+  </div>
+  <h3>History</h3>
+  <ul class="flex-container">
+    <p>EXO debuted on April 8, 2012. They started with 12 members in the group and with 2 sub-group, EXO-K and EXO-M.
+      Each sub-group have 6 members each. EXO-K promote the group in Korea while EXO-M promote the group in China. EXO-K
+      consist of Suho, D.O., Chanyeol, Baekhyun, Kai and Sehun. EXO-M consist of Kris, Chen, Xiumin, Tao, Luhan and Lay.
+      After Kris and Luhan left in 2014 and Tao left in 2015, the group left with 9 members. </p>
+    <h3>Sub-Group</h3>
+    <p>
+      <b>EXO--SC</b><br>
+      Sehun<br>
+      Chanyeol<br><br>
+
+      <b>EXO-CBX</b>
+      Chen<br>
+      Baekhyun<br>
+      Xiumin<br>
+    </p>
+    <h3>World Tour</h3>
+    <p>
+      Exo from Exoplanent 1 - The Lost Planet<br>
+      Exo Planent 2 - The Exo'luxion<br>
+      Exo Planent 3 - The Exo'rdium<br>
+      Exo Planent 4 - The Elyxion<br>
+      Exo Planent 5 - Exploration<br>
+    </p>
+    <h3>Solo</h3>
+    <p>Xiumin<br>
+      Suho<br>
+      D.O.<br>
+      Chen<br>
+      Chanyeol<br>
+      Baekhyun<br>
+      Lay<br>
+      Kai<br>
+      Sehun
+    </p>
+  </ul>
+  <form action="/action_page.php">
+    <label for="email">Enter your email:</label>
+    <input type="email" id="email" name="email">
+    <input type="submit" value="Update Me!!!">
+  </form><br>
+
+
+  <button class="button"><a href="https://www.facebook.com/weareoneEXO/" class="fa fa-facebook"></a></button>
+  <button class="button"><a href="https://www.youtube.com/c/weareoneEXO/about" class="fa fa-youtube"></a></button>
+  <button class="button"><a href="https://www.instagram.com/weareone.exo/?hl=en" class="fa fa-instagram"></a></button>
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
