@@ -14,7 +14,8 @@ html, body {
   }
   p{
     text-align: center;
-    color: white;
+    color: black;
+    font-size: 15px;
   }
   img {
     height: 100%;
@@ -27,9 +28,6 @@ html, body {
   }
   h3{
     text-align:center;
-    color: white;
-  }
-  ul{
-    text-align: center;
-    color:white;
+    color: black;
+    font-size: 34px;
   }

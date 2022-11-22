@@ -85,7 +85,6 @@ border-radius: 50%;
 .fa-facebook {
 background: #3B5998;
 color: white;
-    
 }
 .fa-youtube {
 background: #bb0000;
@@ -97,20 +96,20 @@ background: #125688;
 color: white;
 }
 .button {
-border: none;
-padding: 2px 2px;
-text-align: center;
-font-size: 16px;
-margin: 4px 2px;
-opacity: 0.6;
-transition: 0.3s;
-text-decoration: none;
-cursor: pointer;
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 1px 1px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
 }
 
-.button:hover {opacity: 1}
-
-
+.button:hover {
+  background-color: #3e8e41;
+  color: white;
+}
 
 
 
