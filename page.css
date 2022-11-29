@@ -83,7 +83,7 @@ font-size: 30px;
 width: 30px;
 text-align: center;
 text-decoration: none;
-margin: 20px 30px;
+margin: 10px 15px;
 border-radius: 50%;
 
 }
@@ -100,14 +100,28 @@ color: white;
 background: #125688;
 color: white;
 }
+
+.fa-vlive {
+  padding: 5px;
+  font-size: 5px;
+  width: 50px;
+  color: white;
+}
+.vlive{
+  width: 50px;
+  height: 50px;
+  left: 20px;
+  border-radius: 50%;
+}
 .button {
   background-color: #ddd;
+  border-radius: 50%;
   border: none;
   color: black;
   padding: 1px 1px;
   text-align: center;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 2px 1px;
   transition: 0.3s;
 }
 
